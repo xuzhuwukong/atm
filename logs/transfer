@@ -1,0 +1,12 @@
+2019-06-01 23:00:05,145 - account.py[line:22] - INFO: (<model.account.account object at 0x000002C582035978>, 500.0, 'zhangsan')
+2019-06-01 23:00:05,147 - account.py[line:25] - ERROR: Traceback (most recent call last):
+  File "D:\zoo\atm\model\account.py", line 23, in inner
+    result = func(*args, **kwargs)  # 2
+  File "D:\zoo\atm\model\account.py", line 44, in transfer
+    ab.balance += numb
+AttributeError: 'str' object has no attribute 'balance'
+
+2019-06-01 23:04:21,737 - account.py[line:22] - INFO: (<model.account.account object at 0x0000027A9BB859B0>, 500.0, <model.account.account object at 0x0000027A9BB22208>)
+2019-06-01 23:10:10,974 - account.py[line:22] - INFO: (<model.account.account object at 0x0000023A706470F0>, 500.0, <model.account.account object at 0x0000023A70632EF0>)
+2019-06-01 23:12:12,209 - account.py[line:21] - INFO: (<model.account.account object at 0x000001F9511370B8>, 500.0, <model.account.account object at 0x000001F950EF12E8>)
+2019-06-01 23:12:44,643 - account.py[line:21] - INFO: (<model.account.account object at 0x000001F9511370B8>, 300.0)

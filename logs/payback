@@ -1,0 +1,11 @@
+%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s
+%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s
+[%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s]
+[%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s]
+[%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s]
+[%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s]
+[%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s]
+[%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s]
+[2019-06-01 07:40:13,402 - account.py[line:23] - ERROR: (<model.account.account object at 0x00000175E6D9DF60>, 100.0)]
+2019-06-01 07:43:57,733 - account.py[line:23] - ERROR: (<model.account.account object at 0x000001CEECE97668>, 100.0)
+2019-06-01 23:12:44,643 - account.py[line:21] - INFO: (<model.account.account object at 0x000001F9511370B8>, 300.0)

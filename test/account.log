@@ -1,0 +1,4 @@
+[2019-06-0107:04:00 AM-account.py-ERROR:这是一条error信息的打印]
+[2019-06-0107:04:00 AM-account.py-INFO:这是一条info信息的打印]
+[2019-06-0107:04:00 AM-account.py-WARNING:这是一条warn信息的打印]
+[2019-06-0107:04:00 AM-account.py-DEBUG:这是一条debug信息的打印]
